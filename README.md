@@ -39,6 +39,7 @@ Code campus level 1, Wildr full-stack developer challenge level 1, Day 2
 - Status
 - Checkout
 - New branch creation
+- Set remote repo, remove and add again
 
 You can also refer the link: [https://www.atlassian.com/git/glossary#commands](https://www.atlassian.com/git/glossary#commands)
 
