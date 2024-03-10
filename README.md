@@ -1,2 +1,5 @@
 # code-campus-level1
-Repository - Code campus level 1, Wildr challenge level 1
+This repository will have all the challenge details. 
+
+You can select the challenge based on the days below:
+
