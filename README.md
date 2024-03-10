@@ -20,3 +20,6 @@
     - Divide by 0
     - String operations
 
+### Note:
+If you are facing any issues, ask in the Wildr CodeCampus community. 
+[Click here on your phone](https://wildr.com/invite/ioaN)
