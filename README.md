@@ -1,26 +1,11 @@
-# code-campus-level1
-This repository will have all the challenge details. 
+# code-campus-level1 Day 5
 
-You can select the challenge based on the days below:
-- [Day 1](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day1/README.md)
-- [Day 2](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day2/README.md)
-- [Day 3](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day3/README.md)
-- [Day 4](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day4/README.md)
-- [Day 5](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day5/README.md)
-- [Day 6](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day6/README.md)
-- [Day 7](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day7/README.md)
-- [Day 8](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day8/README.md)
-- [Day 9](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day9/README.md)
-- [Day 10](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day10/README.md)
-- [Day 11](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day11/README.md)
-- [Day 12](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day12/README.md)
-- [Day 13](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day13/README.md)
-- [Day 14](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day14/README.md)
-- [Day 15](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day15/README.md)
-- [Day 16](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day16/README.md)
-- [Day 17](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day17/README.md)
-- [Day 18](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day18/README.md)
-- [Day 19](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day19/README.md)
-- [Day 20](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day20/README.md)
-- [Day 21](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day21/README.md)
-- [Day 22](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day22/README.md)
+## Learn
+- [Arrays](https://javascript.info/array)
+- [Array Methods](https://javascript.info/array-methods)
+
+## Task1
+- Consider there is a job interview for a company. They need a Junior developer. Company is okay to recruit either Node.js or NestJS skill for backend. 
+- There are 5 candidates Suresh, Ramesh, Mahesh, Ganesh and Ritesh - They have skills: Java, NodeJS, HTML, NestJS and Python respectively.
+- Print the candidates names who get selected for the job
+- Use if else statements in the solution, and also write code using switch case and for loop
