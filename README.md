@@ -15,10 +15,10 @@
 - Example: Your pocket has following amounts on every day counts:
 0,1,1,2,3,5,8,13,21..... 
 
-0+1=1
-1+1=2
-1+2=3
-2+3=5
+0+1=1 , day1
+1+1=2 , day2
+1+2=3 , day3
+2+3=5 , day4
 3+5=8 and so on.
 
 - Tell me how much money do you have on 14th day.
