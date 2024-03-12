@@ -1,7 +1,6 @@
 # code-campus-level1 day 4
 
 ## Learn
-- 
 - [IfElse](https://javascript.info/ifelse)
 - [Logical Operators](https://javascript.info/logical-operators)
 - [Loops - While and For](https://javascript.info/while-for)
