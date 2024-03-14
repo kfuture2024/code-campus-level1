@@ -44,5 +44,7 @@ Code campus level 1, Wildr full-stack developer challenge level 1, Day 2
 You can also refer the link: [https://www.atlassian.com/git/glossary#commands](https://www.atlassian.com/git/glossary#commands)
 
 ### Note:
-If you are facing any issues, ask in the Wildr CodeCampus community. 
+If you are facing any issues, 
+- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/3) 
+- Ask in the Wildr CodeCampus community. 
 [Click here on your phone](https://wildr.com/invite/ioaN)
