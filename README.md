@@ -3,7 +3,7 @@ Code campus level 1, Wildr full-stack developer challenge level 1, Day 2
 
 ## Github account
 - Create Github account
-- Create a project with name : code-campus-level1 , (Create with README.md file)
+- Create a repository with name : code-campus-level1 , (Create with README.md file)
 - Clone the newly created project to your computer
 - Make some changes in the README.md file
 - Your changes should be pushed to remote repository
@@ -44,6 +44,8 @@ Code campus level 1, Wildr full-stack developer challenge level 1, Day 2
 You can also refer the link: [https://www.atlassian.com/git/glossary#commands](https://www.atlassian.com/git/glossary#commands)
 
 ### Note:
+- Watch this video from Mosh for getting to know the basics of Git: [Git tutorial](https://youtu.be/8JJ101D3knE?si=p0pBO8IWHvQQ5aky)      
+
 If you are facing any issues, 
 - Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/3) 
 - Ask in the Wildr CodeCampus community. 
