@@ -1,21 +1,46 @@
 # code-campus-level1 Day 6
 
 ## Learn
-
-- [Functions](https://javascript.info/function-basics)
-- [Classes](https://javascript.info/classes)
+- [Promises](https://javascript.info/async)
 
 ## Task1
-- Create a class called **Calculator*
-- Implement functions for addition, subtraction, multiplication and division
-- Verify your class by creating instance of Calculator and executing the operations and print the responses
+- Make the API call from Javascript - Call this API: [https://restcountries.com/v3.1/all](https://restcountries.com/v3.1/all)
+- Check the type of the response.
+- Iterate over the response and print each country name
 
 ## Task2
-Create a JavaScript class called BankAccount to represent a simple bank account. 
-- The class should have methods for depositing money, withdrawing money, and checking the balance.Create a class called BankAccount.
-- Implement methods for deposit, withdraw, and getBalance within the class.
-- Ensure that withdrawing money does not result in a negative balance.
-- Test your class by creating an instance of BankAccount and performing deposit and withdrawal operations.
+- Create a seperate function which calls the API.
+- Call that function and return the names of countries.
+- Print the response from your function
+
+```
+//define your function
+//your function makes the call to the API mentioned
+//call your function
+//Print the Country names
+```
+### Use Async await here
+
+
+## Task3
+
+- Call an error function like below
+```
+async function myNewError() {
+  throw new Error("Test Error");
+}
+```
+- Handle the error
+
+## Task 4
+- Create 3 promises of your own
+- Print response after all of them resolved
+- Print response after any one of them are resolved
+
+## Task 5
+- Read more resources and experiment on Promises and Async await 
+- Explore when is it essential to use Async Await and Promise.then
+- Understand various ways of Error handling
 
 ### Note:
 If you are facing any issues, 
