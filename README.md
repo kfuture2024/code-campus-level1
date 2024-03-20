@@ -44,6 +44,6 @@ async function myNewError() {
 
 ### Note:
 If you are facing any issues, 
-- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/7) 
+- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/8) 
 - Ask in the Wildr CodeCampus community. 
 [Click here on your phone](https://wildr.com/invite/ioaN)
