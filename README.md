@@ -1,4 +1,4 @@
-# code-campus-level1 Day 6
+# code-campus-level1 Day 7
 
 ## Learn
 - [Promises](https://javascript.info/async)
