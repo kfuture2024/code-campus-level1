@@ -1,26 +1,24 @@
-# Code-campus level1
-This repository will have all the challenge details. 
+# code-campus-level1 Day 5
 
-You can select the challenge based on the days below:
-- [Day 1](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day1/README.md)
-- [Day 2](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day2/README.md)
-- [Day 3](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day3/README.md)
-- [Day 4](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day4/README.md)
-- [Day 5](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day5/README.md)
-- [Day 6](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day6/README.md)
-- [Day 7](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day7/README.md)
-- [Day 8](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day8/README.md)
-- [Day 9](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day9/README.md)
-- [Day 10](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day10/README.md)
-- [Day 11](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day11/README.md)
-- [Day 12](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day12/README.md)
-- [Day 13](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day13/README.md)
-- [Day 14](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day14/README.md)
-- [Day 15](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day15/README.md)
-- [Day 16](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day16/README.md)
-- [Day 17](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day17/README.md)
-- [Day 18](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day18/README.md)
-- [Day 19](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day19/README.md)
-- [Day 20](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day20/README.md)
-- [Day 21](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day21/README.md)
-- [Day 22](https://github.com/kfuture2024/code-campus-level1/blob/challenge/level1-day22/README.md)
+## Learn
+- You can start with HTML basics [here](https://www.w3schools.com/html/default.asp)
+- You can watch a video to understand how to start with HTML - [HTML how to start?](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
+- You will be asked to learn specific concepts in coming days.
+
+## Task1
+- Create your first index.html document. You can refer the links above.
+- Save file and open the file in explorer and double click. The page should open in a browser.
+- Try as many as possible html tags- div, p, h1-h6, span, a, input, textarea, select-option, button and many more. Check what happens.
+- Try to understand the differences between each tags.
+
+# Task 2
+- Save and refresh page when you try out new tags.
+- Post your page screenshots:
+- Your page can look like anything - try out many things.
+- ![Sample](sample-html-page.png)
+
+### Note:
+If you are facing any issues, 
+- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/6) 
+- Ask in the Wildr CodeCampus community. 
+[Click here on your phone](https://wildr.com/invite/ioaN)
