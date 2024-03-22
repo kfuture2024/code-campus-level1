@@ -15,7 +15,7 @@
 - Save and refresh page when you try out new tags.
 - Post your page screenshots:
 - Your page can look like anything - try out many things.
-- ![Sample](sample-html-page.png)
+  ![Sample](sample-html-page.png)
 
 ### Note:
 If you are facing any issues, 
