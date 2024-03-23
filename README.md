@@ -12,6 +12,7 @@
 - Try to create blocks like below
 ![Sample](sample-html-page.png)
 - You can explore the entire page and try things in this link: [CSS tutorial](https://www.w3schools.com/css/)
+- (Not required to place in the center, you can try that too.)
 
 # Task 2
 - Increase the border radious, thickness, change background color, font, etc. Explore the CSS positioning on the block you created. Post your tries- and results.
@@ -23,6 +24,9 @@
 - Check flex box. [CSS Flex box](https://www.w3schools.com/css/css3_flexbox.asp)
 - You can use any html tags and you can nest as you wish
 
+# Task 4
+- You may try to place the boxes on top-left, top-right, center, bottom etc.
+- You may also try to make the boxes transparent, blurr etc.
 
 ### Note:
 Explore as much as possible. Post all your outputs.    
