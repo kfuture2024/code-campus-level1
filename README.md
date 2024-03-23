@@ -1,23 +1,33 @@
 # code-campus-level1 Day 5
 
 ## Learn
-- You can start with HTML basics [here](https://www.w3schools.com/html/default.asp)
-- You can watch a video to understand how to start with HTML - [HTML how to start?](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
-- You will be asked to learn specific concepts in coming days.
+- [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
+- [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
+- [CSS Borders](https://www.w3schools.com/css/css_border.asp)
+- [CSS Margins](https://www.w3schools.com/css/css_border.asp)
+- [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
 
 ## Task1
-- Create your first index.html document. You can refer the links above.
-- Save file and open the file in explorer and double click. The page should open in a browser.
-- Try as many as possible html tags- div, p, h1-h6, span, a, input, textarea, select-option, button and many more. Check what happens.
-- Try to understand the differences between each tags.
+- Create your first index.html document. Check how to write CSS and apply on html elements. Note: In index.html, you can make use of style tag and write css in it.
+- Try to create blocks like below
+![Sample](sample-html-page.png)
+- You can explore the entire page and try things in this link: [CSS tutorial](https://www.w3schools.com/css/)
 
 # Task 2
-- Save and refresh page when you try out new tags.
-- Post your page screenshots:
-- Your page can look like anything - try out many things.
-- ![Sample](sample-html-page.png)
+- Increase the border radious, thickness, change background color, font, etc. Explore the CSS positioning on the block you created. Post your tries- and results.
+- Change the button color. Try to make it slightly bigger.
+
+# Task 3
+- This is a try for you: Try to bring the boxes one by the side of other.
+![Sample](sample-html-page-flex.png)
+- Check flex box. [CSS Flex box](https://www.w3schools.com/css/css3_flexbox.asp)
+- You can use any html tags and you can nest as you wish
+
 
 ### Note:
+Explore as much as possible. Post all your outputs.    
+Post your outputs.    
+
 If you are facing any issues, 
 - Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/6) 
 - Ask in the Wildr CodeCampus community. 
