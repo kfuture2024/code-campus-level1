@@ -1,34 +1,29 @@
-# code-campus-level1 Day 5
+# code-campus-level1 Day 10
 
 ## Learn
-- [CSS Selectors](https://www.w3schools.com/css/css_selectors.asp)
-- [CSS Colors](https://www.w3schools.com/css/css_colors.asp)
-- [CSS Borders](https://www.w3schools.com/css/css_border.asp)
-- [CSS Margins](https://www.w3schools.com/css/css_border.asp)
-- [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
+- Head on to the tutorial: [CSS Tutorials](https://www.w3schools.com/css/)
+- Learn concepts like - Margins, Padding, Box Model, Flexbox, background color, border, display, max-width, overflow, specificity, !important.
 
 ## Task1
-- Create your first index.html document. Check how to write CSS and apply on html elements. Note: In index.html, you can make use of style tag and write css in it.
-- Try to create blocks like below
-![Sample](sample-html-page.png)
+- Create your index.html document. Check how to write CSS and apply on html elements. Note: In index.html, you can make use of style tag and write css in it.
+- Try to create a login page like below:
+![Sample](sample-login-page.png)
 - You can explore the entire page and try things in this link: [CSS tutorial](https://www.w3schools.com/css/)
+- Make the login box in the center of the page.
+- Make sure you have given some margin and padding.
+- You may also beautify based on your wish.
 
-# Task 2
-- Increase the border radious, thickness, change background color, font, etc. Explore the CSS positioning on the block you created. Post your tries- and results.
-- Change the button color. Try to make it slightly bigger.
-
-# Task 3
-- This is a try for you: Try to bring the boxes one by the side of other.
-![Sample](sample-html-page-flex.png)
-- Check flex box. [CSS Flex box](https://www.w3schools.com/css/css3_flexbox.asp)
-- You can use any html tags and you can nest as you wish
-
+## Task2
+- Open the developer tools in your browser (check in the internet about how you can do this)
+![Sample](sample-html-page-dev-tool.png) 
+- Check how responsive it is when you resize.
+- Try to choose different mobile device options in your developer tool of the browser. (Research on this)
 
 ### Note:
 Explore as much as possible. Post all your outputs.    
 Post your outputs.    
 
 If you are facing any issues, 
-- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/6) 
+- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/11) 
 - Ask in the Wildr CodeCampus community. 
 [Click here on your phone](https://wildr.com/invite/ioaN)
