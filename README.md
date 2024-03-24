@@ -1,29 +1,28 @@
-# code-campus-level1 Day 11
+# code-campus-level1 Day 12
 
 ## Learn
 - Head on to the tutorial: [CSS Tutorials](https://www.w3schools.com/css/)
 - Learn concepts like - Margins, Padding, Box Model, Flexbox, background color, border, display, max-width, overflow, specificity, !important.
 
 ## Task1
-- Create your index.html document. Check how to write CSS and apply on html elements. Note: In index.html, you can make use of style tag and write css in it.
-- Try to create a login page like below:
+- You have created a login page in day 11 challenge.
 ![Sample](sample-login-page.png)
-- You can explore the entire page and try things in this link: [CSS tutorial](https://www.w3schools.com/css/)
-- Make the login box in the center of the page.
-- Make sure you have given some margin and padding.
-- You may also beautify based on your wish.
+- Add a validation in your login page.
+- If the user name or password are empty - show the error to the user. Either an alert or an error message on the UI.
+- (You may try creating a function inside script tag and call on click of login button or use a form)
 
 ## Task2
-- Open the developer tools in your browser (check in the internet about how you can do this)
-![Sample](sample-html-page-dev-tool.png) 
-- Check how responsive it is when you resize.
-- Try to choose different mobile device options in your developer tool of the browser. (Research on this)
+- Try to make the page more meaningful.
+- Try to add format validation like user name cannot contain symbols spaces etc..
+- Define your validation rules for the form.
+- Extra: (Try to Show the error message below the user name and password.)
+- Extra: You may also try to show a message below the login button.
 
 ### Note:
 Explore as much as possible. Post all your outputs.    
 Post your outputs.    
 
 If you are facing any issues, 
-- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/12) 
+- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/13) 
 - Ask in the Wildr CodeCampus community. 
 [Click here on your phone](https://wildr.com/invite/ioaN)
