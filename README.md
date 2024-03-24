@@ -3,6 +3,7 @@
 ## Learn
 - Head on to the tutorial: [CSS Tutorials](https://www.w3schools.com/css/)
 - Learn concepts like - Margins, Padding, Box Model, Flexbox, background color, border, display, max-width, overflow, specificity, !important.
+- Learn how to embed javascript code in html page
 
 ## Task1
 - You have created a login page in day 11 challenge.
