@@ -1,4 +1,4 @@
-# code-campus-level1 Day 10
+# code-campus-level1 Day 11
 
 ## Learn
 - Head on to the tutorial: [CSS Tutorials](https://www.w3schools.com/css/)
@@ -24,6 +24,6 @@ Explore as much as possible. Post all your outputs.
 Post your outputs.    
 
 If you are facing any issues, 
-- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/11) 
+- Make use of [discussions](https://github.com/kfuture2024/code-campus-level1/discussions/12) 
 - Ask in the Wildr CodeCampus community. 
 [Click here on your phone](https://wildr.com/invite/ioaN)
