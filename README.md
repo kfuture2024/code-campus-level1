@@ -1,7 +1,5 @@
 # code-campus-level1 Day 13
 
-## Learn
-- Head on to the tutorial: [CSS Tutorials](https://www.w3schools.com/css/)
 
 ## Task1
 - You have created a login page in day 11 challenge and added the validations on it.
